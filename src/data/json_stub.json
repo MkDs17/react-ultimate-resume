@@ -1,54 +1,48 @@
 {
     "basics": {
-        "name": "John Doe",
+        "name": "Mickael Rassicot",
         "label": "Programmer",
-        "picture": "",
-        "email": "john@gmail.com",
-        "phone": "(912) 555-4321",
+        "picture": "avataaars.svg",
+        "email": "mickael.rassicot@gmail.com",
+        "phone": "(33) 42-42-42-42",
         "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "summary": "Développeur Web Front-End",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "",
+            "postalCode": "",
+            "city": "Meaux",
+            "countryCode": "FR",
+            "region": "Ile de France"
         },
         "profiles": [
             {
                 "network": "Twitter",
-                "username": "john",
-                "url": "http://twitter.com/john"
+                "username": "MkDesign14",
+                "url": "http://twitter.com/MkDesign14"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
-            "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name":"Irris",
+            "position":"Technicien système réseau",
+            "index":0,
+            "startDate":"2016-06-01",
+            "endDate":"2019-03-01",
+            "summary":"Création / maintenance de sites internet (Wordpress)\n- Développement Web (Languages utilisés : Html, Css, Javascript,\nPhp, MySql)\n- Hébergement web et messagerie internet\n- Maintenance réseau et dépannage client","location":"93370 Montfermeil, France",
+            "placeId":"ChIJvXeXjxIR5kcROEG4OSLBNO0",
+            "id":"-M3jy54XrOzLTnU2NMf0"
         },
         {
-            "name": "What a nice office",
-            "position": "President",
-            "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
-        },
-        {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name":"Mc donald's",
+            "position":"Assistant de direction",
+            "index":1,
+            "startDate":"2006-01-01",
+            "endDate":"2014-01-01",
+            "summary":"- Responsable de quart et d’équipe\n- Formation des équipiers\n- Gestion des stocks, des pertes, des commandes, des inventaires\n- Plannings",
+            "location":"Nogent-sur-Marne, France",
+            "placeId":"ChIJt5RRyGsN5kcRkDiLaMOCCwQ",
+            "id":"-M3jy54XrOzLTnU2NMf1"
         }
     ],
     "volunteer": [
@@ -63,22 +57,17 @@
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
-            "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "id":"-M3jy54YZNwWSPE1m18W",
+            "institution":"Ecole O'clock",
+            "index":0,
+            "studyType":"Développeur Web et Web Mobile Niveau III , Programmation / développeur informatique, général","endDate":"2020-01-01"
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
-            "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "id":"-M3jy54ZGeSWb4EAJfFq",
+            "institution":"Lycée Condorcet, La Varenne",
+            "index":1,
+            "studyType":"Baccalauréat",
+            "endDate":"2005-01-01"
         }
     ],
     "awards": [
@@ -100,43 +89,119 @@
     ],
     "skills": [
         {
-            "name": "Reactaaa",
-            "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"a19c329f-f458-4e93-bcd1-be2666560b23",
+            "name":"React",
+            "position":0,
+            "value":45
         },
         {
-            "name": "Angular",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"918b1153-326c-4662-afdd-0899b80beb8d",
+            "name":"Express",
+            "position":1,
+            "value":25
         },
         {
-            "name": "NodeJS",
-            "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"3e17068d-f98b-4d37-a33c-8468094437f2",
+            "name":"NodeJS",
+            "position":2,
+            "value":30
         },
         {
-            "name": "Firebase",
-            "level": "Master",
-            "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"37f344e6-d55c-4a47-b947-46ccfec43266",
+            "name":"Javascript",
+            "position":3,
+            "value":80
         },
         {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"d36e17ff-8db3-41ef-a485-b381b82a28c1",
+            "name":"jQuery",
+            "position":4,
+            "value":70
         },
         {
-            "name": "K8S",
-            "level": "Master",
-            "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "id":"0fa5e85d-8137-4290-9600-c28211e6ff59",
+            "name":"HTML5",
+            "position":5,
+            "value":75
+        },
+        {
+            "id":"16c7538b-cca3-4dd9-b44f-49beea24f6a6",
+            "name":"CSS3",
+            "position":6,
+            "value":75
+        },
+        {
+            "id":"a9fc51ac-c1e0-41b9-901f-6e42c8f32b47",
+            "name":"Sass",
+            "position":7,
+            "value":70
+        },
+        {
+            "id":"3e3d4152-bf2a-4c2a-87f7-151bbf3c0a93",
+            "name":"Mysql",
+            "position":8,
+            "value":65
+        },
+        {
+            "id":"0e9a8335-9a58-4aad-876d-5838ce8b8612",
+            "name":"PHP",
+            "position":9,
+            "value":60
+        },
+        {
+            "id":"f4b0741e-b8ff-48e9-a7db-27edc335d1b1",
+            "name":"Symfony",
+            "position":10,
+            "value":45
+        },
+        {
+            "id":"2dd9dcb2-d936-4971-a4d9-ef16d78fd64d",
+            "name":"Babel",
+            "position":11,
+            "value":60
+        },
+        {
+            "id":"9241455e-1b1e-4093-9066-fa924352b001",
+            "name":"Webpack",
+            "position":12,
+            "value":60
+        },
+        {
+            "id":"28de7c71-bfec-4e8f-b532-42591d91d759",
+            "name":"Github",
+            "position":13,
+            "value":70
+        },
+        {
+            "id":"4fbffc2a-5022-43ca-b0b8-4a6699dfa1f1",
+            "name":"Typescript",
+            "position":14,
+            "value":50
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        {
+            "name":"Français",
+            "position":0,
+            "value":100,
+            "language":"Français",
+            "id":"-M3k-ckvCqLYcw_ofwfV"
+        },
+        {
+            "name":"Anglais",
+            "position":1,
+            "value":70,
+            "language":"Anglais",
+            "id":"-M3k-iP3lWcfEYr_ahDl"
+        },
+        {
+            "name":"Espagnol",
+            "position":2,
+            "value":50,
+            "language":"Espagnol",
+            "id":"-M3k-kskZebbA-gOMgN3"
+        }
+    ],
     "interests": [
         {
             "name": "Burritos",
@@ -196,11 +261,11 @@
         "sound": {
             "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Framework JS (Vue, Angular) et Framework pour app mobile (React Native, Ionic)"
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
+            "url": "banner.jpg",
             "alt": "Default Banner"
         },
         "cardsOrder": [
