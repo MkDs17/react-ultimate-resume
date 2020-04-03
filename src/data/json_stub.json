@@ -204,23 +204,20 @@
     ],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Sports",
+            "gifUrl": "https://media.giphy.com/media/qp61kl8rdZwuQ/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Reading",
+            "gifUrl": "https://media.giphy.com/media/uDj0Fa3q8ipBS/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
+            "name": "Tv Show",
+            "gifUrl": "https://media.giphy.com/media/qNnQAESrblfDG/giphy.gif"
         },
         {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Food",
+            "gifUrl": "https://media.giphy.com/media/3o7buhm1O1bOJV4ZWM/giphy.gif"
         }
     ],
     "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
@@ -259,7 +256,7 @@
             "experienceYears": 9
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/embed/playlist/0vvXsWCC9xrXsKd4FyS8kM"
         },
         "interestedBy": "Framework JS (Vue, Angular) et Framework pour app mobile (React Native, Ionic)"
     },
